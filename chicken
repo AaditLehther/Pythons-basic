@@ -1,0 +1,19 @@
+
+print ("I will now count my fucking chickens")
+print ("hens", 25+30)
+print ("roosters", 100-25*3 %4)
+
+print("Now I will count the eggs:")
+
+print(3+2+1-5+4%2-1/4+6)
+
+print("Is it true that 3 +2< 5-7?")
+
+print(3+2<5-7)
+
+print("how'd it do that")
+
+print("what is 3+2", 3+2)
+print("What is 5-7", 5-7)
+
+print("that still dont make no sense")
