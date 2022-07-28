@@ -1,0 +1,19 @@
+people = 15
+teeth = 32
+arms = 2
+bones = 206
+fingers = 10
+toes = 10
+
+total_teeth= people *teeth
+total_arms = people * arms
+total_bones = people *bones 
+total_fingers= people*fingers
+total_toes= people *toes
+
+print("body party count")
+print("There are", total_teeth, "teeth")
+print("There are", total_arms, "arms")
+print("There are", total_bones, "bones")
+print("There are", total_fingers, "fingers")
+print("There are", total_toes, "toes")
