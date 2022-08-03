@@ -1,0 +1,29 @@
+sex = input("Hey! Are you a girl or a boy? (girl/boy/other)   ")
+
+if sex == "girl":
+    print("Hey Girl, how are you?     ")
+
+if sex == "boy":
+    print("Hey Boy, how you doin?    ")
+
+if sex == "other":
+    print("Hey, how are you today?    ")
+
+mood = input("Basically just tell me how you feeling. (good/bad)  ")
+
+if mood == "good":
+    print("That's great!    ")
+
+if mood == "bad":
+    print("Sorry to hear that, would you like some help?    ")
+
+need = input("If you need help, just let me know. (yes/no)    ")
+
+if need == "no":
+    print("You think your tough huh?    ")
+
+if need == "yes":
+    print("Go help yourself. Have a nice day!   ")
+
+else:
+    print("Remember to answer in lowercase and try again    ")
